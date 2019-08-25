@@ -1,2 +1,2 @@
 # MobileAddictionApp
-This is the simple App designed t know the status of a addicted person over Mobile.
+This is the simple App designed to know the status of a addicted person over Mobile.
