@@ -70,16 +70,7 @@ class FirstScreen extends StatelessWidget {
             },
               ),
 
-            //   InkWell(
-            //         child: new Text('\nJAYA PRAKASH REDDY',style:TextStyle(fontSize: 25.0,color: Colors.red, decoration: TextDecoration.underline)),
-            //     onTap: () async {
-            // if (await canLaunch("https://in.linkedin.com/in/jaya-prakash-veldanda-756b48179")) {
-            //   await launch("https://in.linkedin.com/in/jaya-prakash-veldanda-756b48179");
-            // }
-            //     }
-                
-            //     // launch("https://in.linkedin.com/in/jaya-prakash-veldanda-756b48179"),
-            //   ),
+
           ShowImage(1),
           FlatButton(
           child: Text("ABOUT"),
@@ -173,9 +164,9 @@ class AboutScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -289,9 +280,9 @@ class SecondScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -408,9 +399,9 @@ class ThirdScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -523,9 +514,9 @@ class FourthScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -638,9 +629,9 @@ class FifthScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -756,9 +747,9 @@ class SixthScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -873,9 +864,9 @@ class SeventhScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -990,9 +981,9 @@ class EighthScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -1107,9 +1098,9 @@ class NinethScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-        body: WillPopScope(
+          title: new Text(" "),
+         ),
+         body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(
@@ -1247,9 +1238,9 @@ class EndScreen extends StatelessWidget {
   }
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Mobile Addiction Rating Application"),
-        ),
-         body: WillPopScope(
+          title: new Text(" "),
+         ),
+          body: WillPopScope(
         //Wrap out body with a `WillPopScope` widget that handles when a user is cosing current route
         onWillPop: () {
         return Navigator.push(

@@ -1,4 +1,4 @@
-package com.example.jp_app
+package com.example.MobileAddictionRatingApp
 
 import android.os.Bundle
 
